@@ -8,7 +8,7 @@ using System;
 // Learning how to use git
 
 
-    //Afjsklkds;lglfd,phl;k,fdh/;f
+    //Afjsklkds;lglfd
 namespace GoogleMapApp
 {
 	[Activity ( Label = "Google Map", MainLauncher = true , Icon = "@drawable/icon" )]			
