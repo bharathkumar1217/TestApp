@@ -5,6 +5,7 @@ using Android.Gms.Maps;
 using Android.Gms.Maps.Model;
 using System;
 
+// Learning how to use git
 namespace GoogleMapApp
 {
 	[Activity ( Label = "Google Map", MainLauncher = true , Icon = "@drawable/icon" )]			
